@@ -50,7 +50,7 @@ No `pip install` step is required.
 Run the script directly:
 
 ```bash
-python "Auto file rename.py"
+python "Auto File Renamer.py"
 ```
 
 Or double-click the pre-built `Auto File Renamer.exe` (if available in the `dist/` folder).
