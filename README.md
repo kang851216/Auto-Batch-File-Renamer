@@ -2,6 +2,7 @@
 
 A lightweight desktop GUI tool for batch-renaming files in a selected folder.  
 Built with Python and Tkinter — no third-party libraries required.
+<img width="1108" height="817" alt="image" src="https://github.com/user-attachments/assets/83110133-23d6-4281-bbe5-6707673bf2c7" />
 
 ---
 
