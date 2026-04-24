@@ -75,7 +75,3 @@ python -m PyInstaller --onefile --windowed --name "Auto File Renamer" "Auto file
 The `.exe` will be created in the `dist/` folder.
 
 ---
-
-## License
-
-MIT License — free to use and modify.
