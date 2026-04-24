@@ -37,7 +37,7 @@ Built with Python and Tkinter — no third-party libraries required.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/auto-file-renamer.git
+git clone https://github.com/kang851216/auto-file-renamer.git
 cd auto-file-renamer
 ```
 
